@@ -5,7 +5,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-nezha": "github:elecfreaks/pxt-nezha#v1.3.6",
+        "pxt-PlanetX": "github:elecfreaks/pxt-planetx#v1.5.15"
     },
     "files": [
         "README.md",
@@ -23,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
