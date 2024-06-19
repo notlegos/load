@@ -1,4 +1,4 @@
-# notlegos payload
+# notlego
 
 ```package
 pxt-nezha=github:elecfreaks/pxt-nezha
