@@ -1,4 +1,4 @@
-# 2024-06-19 Project
+# Nolego Tutorial
 
 ```package
 pxt-nezha=github:elecfreaks/pxt-nezha
